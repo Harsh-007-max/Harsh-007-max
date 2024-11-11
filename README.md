@@ -7,7 +7,7 @@ I have been studying programming for the past four years, starting with C and C+
 - 🌍  I'm based in Rajkot
 - ✉️  You can contact me at [harshbhalodiya1209@gmail.com](mailto:harshbhalodiya1209@gmail.com)
 - 🚀  I'm currently working on [Neochat](http://github.com/Harsh-007-max/Video-Calling-App-Angular)
-- 🧠  I'm learning Rust, Linux Administration, ASP.NET Core MVC, AWS Cloud.
+- 🧠  I'm learning Rust, Linux Administration, AWS Cloud.
 - 🤝  I'm open to collaborating on [Music-Player](http://github.com/Harsh-007-max/Music-Player)
 
 ### Skills
